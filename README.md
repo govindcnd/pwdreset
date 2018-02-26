@@ -15,5 +15,6 @@ Usage Notes
 ex: echo "RyZKrQrjWsmzwhvkEa+9sxfGKh/kgUP5AZd+p3/Ne+b+115PaZUL8lQoKBhmy/oX" | password_gen  20
 
 
-Remember:
+Things 2 Remember:
 The desired length should be less than or equal to input string. Else the generated password will be limited to the length of input string. 
+Tested Amazon Linux / Centos.
